@@ -1,0 +1,17 @@
+E:\data\C#\Code\ExcelToDt\CQCMWin\bin\Release\CQCMWin.exe.config
+E:\data\C#\Code\ExcelToDt\CQCMWin\bin\Release\CQCMWin.exe
+E:\data\C#\Code\ExcelToDt\CQCMWin\bin\Release\CQCMWin.pdb
+E:\data\C#\Code\ExcelToDt\CQCMWin\bin\Release\CQCM.dll
+E:\data\C#\Code\ExcelToDt\CQCMWin\bin\Release\ICSharpCode.SharpZipLib.dll
+E:\data\C#\Code\ExcelToDt\CQCMWin\bin\Release\NPOI.dll
+E:\data\C#\Code\ExcelToDt\CQCMWin\bin\Release\NPOI.OOXML.dll
+E:\data\C#\Code\ExcelToDt\CQCMWin\bin\Release\NPOI.OpenXml4Net.dll
+E:\data\C#\Code\ExcelToDt\CQCMWin\bin\Release\NPOI.OpenXmlFormats.dll
+E:\data\C#\Code\ExcelToDt\CQCMWin\bin\Release\CQCM.pdb
+E:\data\C#\Code\ExcelToDt\CQCMWin\bin\Release\NPOI.xml
+E:\data\C#\Code\ExcelToDt\CQCMWin\obj\Release\CQCMWin.csprojResolveAssemblyReference.cache
+E:\data\C#\Code\ExcelToDt\CQCMWin\obj\Release\CQCMWin.Form1.resources
+E:\data\C#\Code\ExcelToDt\CQCMWin\obj\Release\CQCMWin.Properties.Resources.resources
+E:\data\C#\Code\ExcelToDt\CQCMWin\obj\Release\CQCMWin.csproj.GenerateResource.Cache
+E:\data\C#\Code\ExcelToDt\CQCMWin\obj\Release\CQCMWin.exe
+E:\data\C#\Code\ExcelToDt\CQCMWin\obj\Release\CQCMWin.pdb

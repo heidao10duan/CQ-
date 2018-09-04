@@ -1,0 +1,1 @@
+E:\data\C#\Code\ExcelToDt\UnitTest.Tests\obj\Debug\UnitTest.Tests.csprojResolveAssemblyReference.cache

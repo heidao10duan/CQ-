@@ -1,0 +1,15 @@
+E:\data\C#\Code\ExcelToDt\TestExcelToDt\bin\Release\TestExcelToDt.dll
+E:\data\C#\Code\ExcelToDt\TestExcelToDt\bin\Release\TestExcelToDt.pdb
+E:\data\C#\Code\ExcelToDt\TestExcelToDt\bin\Release\CQCM.dll
+E:\data\C#\Code\ExcelToDt\TestExcelToDt\bin\Release\nunit.framework.dll
+E:\data\C#\Code\ExcelToDt\TestExcelToDt\bin\Release\NPOI.dll
+E:\data\C#\Code\ExcelToDt\TestExcelToDt\bin\Release\NPOI.OOXML.dll
+E:\data\C#\Code\ExcelToDt\TestExcelToDt\bin\Release\ICSharpCode.SharpZipLib.dll
+E:\data\C#\Code\ExcelToDt\TestExcelToDt\bin\Release\NPOI.OpenXmlFormats.dll
+E:\data\C#\Code\ExcelToDt\TestExcelToDt\bin\Release\NPOI.OpenXml4Net.dll
+E:\data\C#\Code\ExcelToDt\TestExcelToDt\bin\Release\CQCM.pdb
+E:\data\C#\Code\ExcelToDt\TestExcelToDt\bin\Release\nunit.framework.xml
+E:\data\C#\Code\ExcelToDt\TestExcelToDt\bin\Release\NPOI.xml
+E:\data\C#\Code\ExcelToDt\TestExcelToDt\obj\Release\UnitTest.csprojResolveAssemblyReference.cache
+E:\data\C#\Code\ExcelToDt\TestExcelToDt\obj\Release\TestExcelToDt.dll
+E:\data\C#\Code\ExcelToDt\TestExcelToDt\obj\Release\TestExcelToDt.pdb
